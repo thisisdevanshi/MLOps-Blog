@@ -2,6 +2,8 @@
 
 This Repository contains the code for MLOps Blog created by Professor Arnab Bose, Matthew Fligiel, Rupa Ghosh, and Devanshi Verma at the University of Chicago.
 
+**Link of the blog**: To be added
+
 
 ## Motivation
 
@@ -9,7 +11,7 @@ Machine learning models put into production have many assumptions baked into the
 
 ## Data
 
-- - **Climate Model** : Takes the temperatures of 5 nearby cities (Detroit, Milwaukee, Omaha, Toronto, and  St. Louis), and predict the weather of Chicago. 
+- **Climate Model** : Takes the temperatures of 5 nearby cities (Detroit, Milwaukee, Omaha, Toronto, and  St. Louis), and predict the weather of Chicago. 
 
 - **Plant Seedlings Classification**: Determine the species of a seedling from an image. The dataset contains 960 unique plants belonging to 12 classes at several growth stages. You can find the data [here](https://www.kaggle.com/c/plant-seedlings-classification/data).
 
@@ -21,7 +23,7 @@ Machine learning models put into production have many assumptions baked into the
 
 ## Tool Used
 
-###Evidently AI: There are multiple open source and commercial software implementations of model monitoring methodologies. In this article, we walk through an open source model monitoring library [evidently.ai](https://evidentlyai.com/) which got selected in YC S21. 
+**Evidently AI**: There are multiple open source and commercial software implementations of model monitoring methodologies. In this article, we walk through an open source model monitoring library [evidently.ai](https://evidentlyai.com/) which got selected in YC S21. 
 
 ## MLOps Concepts Covered
 We have tried to cover a spectrum of topics in drifts
