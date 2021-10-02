@@ -35,7 +35,7 @@ We have tried to cover a spectrum of topics in drifts
 
 ## Team: 
 
-![](https://i.ibb.co/WpHyyrp/Screen-Shot-2021-10-02-at-11-51-03-AM.png)
+![](https://i.ibb.co/v3W6bhx/Screen-Shot-2021-10-02-at-12-02-20-PM.png)
 
 - [Dr. Arnab Bose](https://www.linkedin.com/in/arnab-bose-phd-6369531/)
 
