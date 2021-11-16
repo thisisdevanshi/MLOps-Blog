@@ -2,7 +2,7 @@
 
 This Repository contains the code for MLOps Blog created by Professor Arnab Bose, Matthew Fligiel, Rupa Ghosh, and Devanshi Verma at the University of Chicago.
 
-**Link of the blog**: To be added
+**Link of the blog**: https://bit.ly/3DkPPxn(https://bit.ly/3DkPPxn)
 
 
 ## Motivation
